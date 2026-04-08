@@ -1,6 +1,6 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Antonio González Molina
 ## 🖥️ Equipo:
 
 ---
@@ -13,7 +13,7 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🎬 VÍDEO ANALIZADO
 
-📌 Enlace al vídeo:
+📌 Enlace al vídeo: https://youtu.be/XMqjf14DQLU
 
 ---
 
@@ -23,44 +23,65 @@ Analizar de forma crítica el proceso de montaje del equipo a partir del vídeo 
 
 ## 🧩 Fase 1: Preparación
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 00:00 - 18:13
 
 📌 ¿Qué se hace en esta fase?
 
+Se prepara el espacio de trabajo, se organizan las herramientas necesarias y se disponen los componentes a instalar.
+
 📌 ¿Se realiza correctamente? (Sí / No / Parcialmente)
 
-📌 Observaciones:
-- Organización del espacio
-- Uso de herramientas
-- Seguridad (electricidad estática, etc.)
+Sí
 
+📌 Observaciones:
+
+- Organización del espacio: Adecuada. Se dispone todo en una superficie amplia y limpia.
+- Uso de herramientas: Correcto, se utilizan las herramientas necesarias.
+- Seguridad (electricidad estática, etc.): No se aprecia el uso de una correa antiestática durante la manipulación de componentes sensibles.
+  
 📌 Valoración técnica:
 (Explica si está bien hecho y por qué)
+
+Se realiza adecuadamente la preparación inicial; sin embargo, se sugiere mejorar las medidas contra la electricidad estática mediante el uso de correa de descarga o pulsera antiestática.
 
 ---
 
 ## 🧩 Fase 2: Instalación de componentes principales
 
-(CPU, RAM, placa base)
+(CPU, RAM, placa base y fuente de alimentación)
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 18:14 - 23:26
 
 📌 ¿Qué se hace?
 
+CPU: Se instala el procesador (CPU) en su socket con el disipador correspondiente.
+RAM: Se instalan los módulos de memoria RAM en los slots disponibles.
+Placa base: Se instala la placa base (motherboard) en la carcasa, aplicando los separadores necesarios y fijándola con los tornillos correspondientes.
+Fuente de alimentación: Se instala la fuente de alimentación en la torre del equipo, asegurándola correctamente.
 📌 ¿Se realiza correctamente?
 
+Sí
+
 📌 Problemas observados:
+
+- Los tornillos se ajustan con cierta presión, aunque se podría mejorar la uniformidad del apriete.
 
 📌 Riesgos detectados:
 (Ejemplo: mala colocación, presión incorrecta, etc.)
 
+- Manejar la placa base sin correa antiestática conlleva un riesgo potencial de daño por electricidad estática.
+- Un apriete desigual podría generar problemas futuros de contacto o flexión de la placa.
+
 📌 Valoración técnica:
+
+Fase efectuada correctamente. La manipulación es precisa y los componentes quedan bien fijados.
+La instalación es representativamente correcta, pero se recomienda mejorar las medidas antiestáticas y asegurar un apriete más uniforme de los tornillos.
 
 ---
 
 ## 🧩 Fase 3: Instalación de almacenamiento
 
-📌 Minuto del vídeo:
+📌 Minuto del vídeo: 23:03 - 23:26
 
 📌 ¿Qué se hace?
 
