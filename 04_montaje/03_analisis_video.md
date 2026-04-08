@@ -128,14 +128,13 @@ Fase satisfactoria. El equipo muestra en pantalla todas sus configuraciones sin 
 ## ✔️ Aciertos
 
 - Organización inicial.
-- Buen ajuste del M.2 y almacenamiento.
-- Integración optimizada de conexiones precisas en BIOS.
+- Buen ajuste del almacenamiento.
 
 ---
 
 ## ❌ Fallos detectados
 
-- Uso impreciso de las guías ESD.
+- Uso impreciso de las guías.
 - Mejorar gestión visual de cableado.
 
 ---
